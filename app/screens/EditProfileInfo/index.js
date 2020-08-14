@@ -37,10 +37,10 @@ let sliderLevels = [
 ];
 
 let sliderDes = [
-  'I am new at dancing or have only danced a couple times',
+  'I am new at these hobbies or have only done this a couple times',
   'I know the basic techniques but still make a few mistakes',
-  'I can do this comfortably but not consistently in a social situation',
-  'I am good at dancing and have experience',
+  'I can do these comfortably but not consistently in a social situation',
+  'I am good at this hobbies and have experience',
   'I have competed locally or nationwide',
 ];
 let myHobbies = [];
