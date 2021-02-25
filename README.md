@@ -7,6 +7,6 @@ Find a hobby, Make new friends
 <h3>This project was meant to help people discuss about topics through online video.</h3>
 <h3>Majorly, you signly, select your hobbies and save your profile. Then swipe on event/topic images to a video call</h3>
 <h3>The tech stack used to build the app was React native and JavaScript</h3>
-<h3>The mistake that "if you build it, people would come". You need to engage in user interviews in your online communities.</h3>
-<h3>It was just fun project and maybe it could help connect people online</h3>
+<h3>The mistake that "if you build it, people would come". You need to engage with users in your online communities.</h3>
+<h3>It was just a fun project and maybe it could help connect people online</h3>
 
